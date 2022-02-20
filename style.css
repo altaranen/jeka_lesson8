@@ -77,7 +77,7 @@ ol {
 
 ol li::before {
     content: "";
-    background: url(../img/braces.png) 0 0 no-repeat;
+    background: url(img/braces.png) 0 0 no-repeat;
     width: 30px;
     height: 20px;
     margin: 0 20px 0 0;
